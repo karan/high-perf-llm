@@ -3,3 +3,5 @@ jax[tpu]
 numpy
 tensorflow
 tensorflow-datasets
+tensorboard
+tensorboard-plugin-profile
